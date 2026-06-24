@@ -10,3 +10,5 @@ NKRO_ENABLE = yes           # Enable N-Key Rollover
 BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = yes       # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
+TAP_DANCE_ENABLE = no
+AUTO_SHIFT_ENABLE = no      # If the time depressed is greater than or equal to the AUTO_SHIFT_TIMEOUT, then a shifted version of the key is emitted. If the time is less than the AUTO_SHIFT_TIMEOUT time, then the normal state is emitted
